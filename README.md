@@ -83,6 +83,6 @@ The report walks users through a **data-driven story**:
 
 ---
 DASHBORDS
-<img width="959" height="541" alt="Image" src="https://github.com/user-attachments/assets/a6b61392-08b4-4f0f-aba7-5d9bc62827b7" />
+
 <img width="1477" height="850" alt="Image" src="https://github.com/user-attachments/assets/5e02e9e9-9716-4a72-aa20-aa233b19f413" />
 <img width="1471" height="834" alt="Image" src="https://github.com/user-attachments/assets/72e48d68-6174-437c-9280-98a8e4b080dd" />
