@@ -86,3 +86,4 @@ DASHBORDS
 
 <img width="1477" height="850" alt="Image" src="https://github.com/user-attachments/assets/5e02e9e9-9716-4a72-aa20-aa233b19f413" />
 <img width="1471" height="834" alt="Image" src="https://github.com/user-attachments/assets/72e48d68-6174-437c-9280-98a8e4b080dd" />
+<img width="1468" height="847" alt="Image" src="https://github.com/user-attachments/assets/02869ffe-0fbe-4dcf-9167-f5d1718a7a9f" />
